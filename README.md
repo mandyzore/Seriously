@@ -1,4 +1,4 @@
-# Seriouly? Yes, seriously
+# Seriously? Yes, seriously
 
 --------------------------------------------
 

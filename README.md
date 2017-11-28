@@ -9,4 +9,4 @@
 * A Formal Theory of Creativity to Model the Creation of Art
 * The Fasted Way of Computing All Universes
 * Predicting Protein Structure With a Multiplayer Game
-
+* Godel's way : exploits into an undecidable world
